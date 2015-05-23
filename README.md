@@ -1,2 +1,2 @@
 # datasciencecoursera
-homework
+homework assignment
